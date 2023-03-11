@@ -2,3 +2,4 @@
 *.json filter=lfs diff=lfs merge=lfs -text
 *.js filter=lfs diff=lfs merge=lfs -text
 *.txt filter=lfs diff=lfs merge=lfs -text
+*BDS-Server/worlds/JF-Flat/db filter=lfs diff=lfs merge=lfs -text
